@@ -5,6 +5,7 @@ dodole1=dodole.split("\n")
 for i in range(len(dodole1)-1,0,-1):
     print(dodole1[i])
    
+Milica je radila sa mnom jer nije mogla da pokrene svoj program
 
 
     
